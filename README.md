@@ -1,2 +1,1 @@
-# odin-recipes
-Este es mi primer proyecto!!
+A HTML website for showcasing recipes of venezuelan culture
